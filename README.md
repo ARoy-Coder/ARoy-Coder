@@ -8,4 +8,4 @@ I'm Anirban, a Cloud and DevOps Architect passionate about AI/ML and Gen-AI worl
 
 ### Technologies & Tools
 
-![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Python%20|%20Machine Learning & Deep Learning%20|%2AI%20|%20Gen-AI%20-blue)
+![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Python%20|%20MachineLearning|DeepLearning%20|%2AI%20|%20Gen-AI%20-blue)
